@@ -1,0 +1,7 @@
+102,Manisha,CSE,4,0
+103,Ishika,5th,0,4.26461e-039,
+111,Rashi pareta,CSE ,4,0,
+112,Rituraj,CSE,4,0,
+113,Rituraj,CSE,4,0,
+112,,4,3,8.2,
+112,Manisha,CSE,4,8.2,
